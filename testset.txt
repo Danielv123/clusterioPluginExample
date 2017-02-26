@@ -1,0 +1,4 @@
+This Is Testing // false
+testing 1 2 3 // true
+Why run tests though? // false
+test ing is not goo d // false

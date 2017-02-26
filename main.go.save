@@ -1,0 +1,17 @@
+package main
+
+import (
+	"fmt"
+	"math"
+	"bufio"
+	"os"
+)
+
+func handleInput(input string, details string) {
+	
+}
+
+func main() {
+	fmt.Println("Hello!")
+	fmt.Println(math.Floor(3.7))
+}
